@@ -404,7 +404,10 @@
 
 <section class="hero">
   <div class="hero-content">
-    <h1 class="hero-title">Jean Sebastian de la Rosa Escobedo</h1>
+    <div>
+  <h1 class="hero-title">Byte 99</h1>
+  <p class="hero-author">Jean Sebastian de la Rosa Escobedo</p>
+</div>
     <h2 class="hero-subtitle">Catálogo de Componentes & Programas Profesionales</h2>
     <p class="hero-description">
       Descubre los mejores componentes de hardware y herramientas de desarrollo para potenciar tu productividad. 
